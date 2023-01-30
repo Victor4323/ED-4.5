@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pelicula>
+ Brazil
+ <director>Terry Gilliam</director>
+ <actores>
+ <actor>Jonathan Pryce</actor>
+ </actores>
+</pelicula>
+<!-- Por hacer: completar actores. -->

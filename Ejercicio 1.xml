@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<amigos>
+    <amigo direccion="Avenida de la Felicidad">
+        Horarcio Olivera</amigo>
+        <amigos direccion="Calle de la Aceitunas">
+        Pilarín Cañete</amigos>
+</amigos>
